@@ -1,0 +1,16 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity LAB05 is
+port(
+	
+);
+end LAB05;
+
+
+architecture main of LAB05 is
+
+begin
+
+
+end architecture main;

@@ -1,0 +1,16 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity LATCHD is
+port(
+	
+);
+end LATCHD;
+
+
+architecture main of LATCHD is
+
+begin
+
+
+end architecture main;
